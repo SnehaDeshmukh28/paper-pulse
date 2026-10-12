@@ -1,0 +1,8 @@
+# your key never goes on github
+.env
+# working files from a run (they contain full abstracts; keep them local)
+papers_raw_*.json
+progress_*.jsonl
+papers_tagged_*.csv
+__pycache__/
+.DS_Store
